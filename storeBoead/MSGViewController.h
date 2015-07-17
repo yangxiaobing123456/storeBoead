@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface MSGViewController : UIViewController
+- (IBAction)out:(id)sender;
 
 @end
